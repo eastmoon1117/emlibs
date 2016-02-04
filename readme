@@ -1,0 +1,12 @@
+
+1 Execute script env.sh
+    $source env.sh
+
+2 Build the source code
+    $cd source
+    $make install
+
+3 Build the examples
+    $cd example
+    $make install
+
